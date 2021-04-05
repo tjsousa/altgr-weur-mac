@@ -1,17 +1,17 @@
-EurKEY-Mac
-==========
+AltGr-WEur-Mac
+==============
 
-The Keyboard Layout for Europeans, Coders and Translators - Version for Mac OS X.
+https://choam.eu/altgr-intl/#weur
 
-This is a port of the [EurKEY Keyboard layout](http://eurkey.steffen.bruentjen.eu/), which features a QWERTY baseline layout (=good access to braces etc.) with quick access to commonly used accented characters and Umlauts.
+This was forked from [EurKEY Keyboard layout](http://eurkey.steffen.bruentjen.eu/), which features a QWERTY baseline layout (=good access to braces etc.) with quick access to commonly used accented characters and Umlauts, changing the `AltGr` keys to match `weur`'s proposal.
 
-**Status**: The whole layout should be mapped now. Please report if you find any missing characters.
+**Status**: Adapter from EurKEY layout manually
 
 
 Install
 =======
 
-Copy the two files `EurKEY.keylayout` and `EurKEY.icns` to your library, either system-wide (`/Library/Keyboard Layouts`) or for your local user (`~/Library/Keyboard Layouts`). A system-wide installation is preferred though to ensure the layout is available to all applications. (See also [this Superuser answer](https://superuser.com/a/561613/263461).)
+Copy the two files `altgr-weur.keylayout` and `altgr-weur.icns` to your library, either system-wide (`/Library/Keyboard Layouts`) or for your local user (`~/Library/Keyboard Layouts`). A system-wide installation is preferred though to ensure the layout is available to all applications. (See also [this Superuser answer](https://superuser.com/a/561613/263461).)
 
 
 License
