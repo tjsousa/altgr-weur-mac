@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 3.2.2.166 on 2017-02-16 at 16:36 (GMT+1)-->
-<keyboard group="126" id="-14519" name="EurKEY v1.2" maxout="1">
+<keyboard group="126" id="-14519" name="AltGr WEur v1.1" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -380,23 +380,23 @@
 		</keyMap>
 		<keyMap index="3">
 			<key code="0" action="ä"/>
-			<key code="1" output="ß"/>
-			<key code="2" output="đ"/>
-			<key code="3" output="è"/>
-			<key code="4" output="ù"/>
-			<key code="5" output="é"/>
-			<key code="6" output="à"/>
-			<key code="7" output="á"/>
+			<key code="1" output="à"/>
+			<key code="2" output="é"/>
+			<key code="3" output="ê"/>
+			<key code="4" output="û"/>
+			<key code="5" output="î"/>
+			<key code="6" output="á"/>
+			<key code="7" output="â"/>
 			<key code="8" output="ç"/>
-			<key code="9" output="ì"/>
+			<key code="9" output="ã"/>
 			<key code="10" output="§"/>
-			<key code="11" output="í"/>
-			<key code="12" action="æ"/>
-			<key code="13" output="å"/>
+			<key code="11" output="õ"/>
+			<key code="12" output="å"/>
+      <key code="13" action="æ"/>
 			<key code="14" action="ë"/>
-			<key code="15" output="ý"/>
-			<key code="16" output="ÿ"/>
-			<key code="17" output="þ"/>
+			<key code="15" output="è"/>
+			<key code="16" output="ù"/>
+			<key code="17" action="ø"/>
 			<key code="18" output="¡"/>
 			<key code="19" output="ª"/>
 			<key code="20" output="º"/>
@@ -414,19 +414,19 @@
 			<key code="32" action="ü"/>
 			<key code="33" output="«"/>
 			<key code="34" action="ï"/>
-			<key code="35" output="œ"/>
+			<key code="35" output="ò"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" action="ø"/>
+			<key code="37" output="ó"/>
 			<key code="38" output="ú"/>
 			<key code="39" action="´"/>
 			<key code="40" output="ĳ"/>
-			<key code="41" output="°"/>
+			<key code="41" output="ô"/>
 			<key code="42" output="¬"/>
-			<key code="43" output="ò"/>
+			<key code="43" action="Ω"/>
 			<key code="44" output="¿"/>
 			<key code="45" output="ñ"/>
-			<key code="46" action="Ω"/>
-			<key code="47" output="ó"/>
+			<key code="46" output="ì"/>
+      <key code="47" output="œ"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
 			<key code="50" action="`"/>
