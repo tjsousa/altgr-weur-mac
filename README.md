@@ -1,7 +1,7 @@
 AltGr-WEur-Mac
 ==============
 
-https://choam.eu/altgr-intl/#weur
+https://altgr-weur.eu/
 
 This was forked from [EurKEY Keyboard layout](http://eurkey.steffen.bruentjen.eu/), which features a QWERTY baseline layout (=good access to braces etc.) with quick access to commonly used accented characters and Umlauts, changing the `AltGr` keys to match `weur`'s proposal.
 
