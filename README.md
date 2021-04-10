@@ -15,7 +15,7 @@ Install
 
 If using Homebrew, there is a Cask for you:
 
-`brew install altgr-weur`
+`brew install tjsousa/cask/altgr-weur`
 
 If you want to install manually or just for your user, follow the instructions below:
 
