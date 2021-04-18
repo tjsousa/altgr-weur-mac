@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-04-09 at 18:40 (WEST)-->
-<keyboard group="126" id="-19905" name="AltGr WEur v1.2" maxout="1">
+<!--Last edited by Ukelele version 343 on 2021-04-18 at 16:16 (WEST)-->
+<keyboard group="126" id="-19905" name="AltGr WEur v1.3" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -53,7 +53,7 @@
             <key code="7" action="x"/>
             <key code="8" action="c"/>
             <key code="9" action="v"/>
-            <key code="10" output="§"/>
+            <key code="10" output="`"/>
             <key code="11" action="b"/>
             <key code="12" action="q"/>
             <key code="13" action="w"/>
@@ -93,7 +93,7 @@
             <key code="47" action="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="space"/>
-            <key code="50" output="`"/>
+            <key code="50" output="&#x003E;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -170,7 +170,7 @@
             <key code="7" action="X"/>
             <key code="8" action="C"/>
             <key code="9" action="V"/>
-            <key code="10" output="±"/>
+            <key code="10" action="~"/>
             <key code="11" action="B"/>
             <key code="12" action="Q"/>
             <key code="13" action="W"/>
@@ -282,7 +282,7 @@
             <key code="7" action="X"/>
             <key code="8" action="C"/>
             <key code="9" action="V"/>
-            <key code="10" output="§"/>
+            <key code="10" output="`"/>
             <key code="11" action="B"/>
             <key code="12" action="Q"/>
             <key code="13" action="W"/>
@@ -394,7 +394,7 @@
             <key code="7" output="â"/>
             <key code="8" output="ç"/>
             <key code="9" output="ã"/>
-            <key code="10" output="§"/>
+            <key code="10" action="`"/>
             <key code="11" output="õ"/>
             <key code="12" output="å"/>
             <key code="13" action="æ"/>
@@ -403,16 +403,16 @@
             <key code="16" output="ù"/>
             <key code="17" action="ø"/>
             <key code="18" output="¡"/>
-            <key code="19" output="ª"/>
-            <key code="20" output="º"/>
+            <key code="19" output="²"/>
+            <key code="20" output="³"/>
             <key code="21" output="¢"/>
             <key code="22" action="6 option"/>
             <key code="23" output="€"/>
-            <key code="24" output="×"/>
+            <key code="24" output="º"/>
             <key code="25" output="“"/>
-            <key code="26" action="˚"/>
-            <key code="27" action="©"/>
-            <key code="28" output="„"/>
+            <key code="26" output="„"/>
+            <key code="27" output="–"/>
+            <key code="28" output="ß"/>
             <key code="29" output="”"/>
             <key code="30" output="»"/>
             <key code="31" action="ö"/>
@@ -434,7 +434,7 @@
             <key code="47" output="œ"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" action="`"/>
+            <key code="50" output="|"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -509,7 +509,7 @@
             <key code="7" output="Â"/>
             <key code="8" output="Ç"/>
             <key code="9" output="Ã"/>
-            <key code="10" output="±"/>
+            <key code="10" action="~ option"/>
             <key code="11" output="Õ"/>
             <key code="12" action="Æ"/>
             <key code="13" output="Æ"/>
@@ -517,17 +517,17 @@
             <key code="15" output="È"/>
             <key code="16" output="Ù"/>
             <key code="17" output="Ø"/>
-            <key code="18" output="¹"/>
-            <key code="19" output="²"/>
-            <key code="20" output="³"/>
+            <key code="18" action="¹"/>
+            <key code="19" action="²"/>
+            <key code="20" action="³"/>
             <key code="21" output="¥"/>
             <key code="22" action="ˇ"/>
             <key code="23" output="£"/>
-            <key code="24" output="÷"/>
+            <key code="24" action="÷"/>
             <key code="25" output="‘"/>
-            <key code="26" action="¯"/>
-            <key code="27" output="№"/>
-            <key code="28" output="‚"/>
+            <key code="26" output="‚"/>
+            <key code="27" output="—"/>
+            <key code="28" action="‚"/>
             <key code="29" output="’"/>
             <key code="30" output="›"/>
             <key code="31" action="Ö"/>
@@ -549,7 +549,7 @@
             <key code="47" output="Œ"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" action="~ option"/>
+            <key code="50" output="¦"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -625,7 +625,7 @@
             <key code="7" output="Á"/>
             <key code="8" output="Ç"/>
             <key code="9" output="Ì"/>
-            <key code="10" output="§"/>
+            <key code="10" action="`"/>
             <key code="11" output="Í"/>
             <key code="12" action="Æ"/>
             <key code="13" output="Å"/>
@@ -737,7 +737,7 @@
             <key code="7" output="≈"/>
             <key code="8" output="ç"/>
             <key code="9" output="√"/>
-            <key code="10" output="§"/>
+            <key code="10" output="`"/>
             <key code="11" output="∫"/>
             <key code="12" output="œ"/>
             <key code="13" output="∑"/>
@@ -849,7 +849,7 @@
             <key code="7" output="&#x0018;"/>
             <key code="8" output="&#x0003;"/>
             <key code="9" output="&#x0016;"/>
-            <key code="10" output="0"/>
+            <key code="10" output="`"/>
             <key code="11" output="&#x0002;"/>
             <key code="12" output="&#x0011;"/>
             <key code="13" output="&#x0017;"/>
@@ -1679,11 +1679,14 @@
             <when state="dead: Ω" output="₎"/>
         </action>
         <action id="~">
-            <when state="none" output="~"/>
+            <when state="none" output="&#x003C;"/>
             <when state="dead: √" output="≈"/>
         </action>
         <action id="~ option">
             <when state="none" next="dead: ~"/>
+        </action>
+        <action id="¥">
+            <when state="none" next="dead: ¯"/>
         </action>
         <action id="¨">
             <when state="none" next="dead: ¨"/>
@@ -1694,7 +1697,16 @@
         <action id="¯">
             <when state="none" next="dead: ¯"/>
         </action>
+        <action id="²">
+            <when state="none" next="dead: ¨"/>
+        </action>
+        <action id="³">
+            <when state="none" next="dead: ¯"/>
+        </action>
         <action id="´">
+            <when state="none" next="dead: ´"/>
+        </action>
+        <action id="¹">
             <when state="none" next="dead: ´"/>
         </action>
         <action id="Ä">
@@ -1748,6 +1760,10 @@
             <when state="none" output="ö"/>
             <when state="dead: `" output="ǫ"/>
         </action>
+        <action id="÷">
+            <when state="none" next="dead: ˚"/>
+            <when state="dead: ˚" output="˚"/>
+        </action>
         <action id="ø">
             <when state="none" output="ø"/>
             <when state="dead: ´" output="ǿ"/>
@@ -1764,6 +1780,9 @@
             <when state="none" next="dead: ˚"/>
         </action>
         <action id="Ω">
+            <when state="none" next="dead: Ω"/>
+        </action>
+        <action id="‚">
             <when state="none" next="dead: Ω"/>
         </action>
         <action id="√">
