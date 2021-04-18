@@ -26,7 +26,7 @@ Usage
 
 Open your keyboard preferences in `System Preferences > Keyboard > Input Sources`, click the + button on the bottom left side and select `AltGr WEur` under `Others`:
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 License
 =======
