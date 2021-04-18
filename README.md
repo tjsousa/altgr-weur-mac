@@ -3,7 +3,7 @@ AltGr-WEur-Mac
 
 https://altgr-weur.eu/
 
-This layout makes all accented characters used in Danish, Dutch, Finnish, French, German, Italian, Norwegian, Portugese, Spanish and Swedish available through one AltGr keystroke.
+This layout makes all accented characters used in Danish, Dutch, Finnish, French, German, Italian, Norwegian, Portuguese, Spanish and Swedish available through one AltGr keystroke.
 
 The Mac implementation was forked from [EurKEY Keyboard layout](http://eurkey.steffen.bruentjen.eu/), which features a QWERTY baseline layout (=good access to braces etc.) with quick access to commonly used accented characters and Umlauts, changing the `AltGr` key sets to match `weur`'s proposal.
 
@@ -21,6 +21,12 @@ If you want to install manually or just for your user, follow the instructions b
 
 Copy the two files `altgr-weur.keylayout` and `altgr-weur.icns` to your library, either system-wide (`/Library/Keyboard Layouts`) or for your local user (`~/Library/Keyboard Layouts`). A system-wide installation is preferred though to ensure the layout is available to all applications. (See also [this Superuser answer](https://superuser.com/a/561613/263461).)
 
+Usage
+=====
+
+Open your keyboard preferences in `System Preferences > Keyboard > Input Sources`, click the + button on the bottom left side and select `AltGr WEur` under `Others`:
+
+![Screenshot](screenshot.jpg)
 
 License
 =======
