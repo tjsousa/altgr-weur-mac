@@ -1,28 +1,28 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-04-18 at 16:16 (WEST)-->
+<!--Last edited by Ukelele version 359 on 2022-09-25 at 20:12 (WEST)-->
 <keyboard group="126" id="-19905" name="AltGr WEur v1.3" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ISO" modifiers="f4"/>
-		<layout first="1" last="6" mapSet="ANSI" modifiers="f4"/>
-		<layout first="10" last="10" mapSet="ANSI" modifiers="f4"/>
-		<layout first="12" last="12" mapSet="ANSI" modifiers="f4"/>
-		<layout first="14" last="15" mapSet="ANSI" modifiers="f4"/>
+        <layout first="1" last="6" mapSet="ANSI" modifiers="f4"/>
+        <layout first="10" last="10" mapSet="ANSI" modifiers="f4"/>
+        <layout first="12" last="12" mapSet="ANSI" modifiers="f4"/>
+        <layout first="14" last="15" mapSet="ANSI" modifiers="f4"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="f4"/>
         <layout first="21" last="23" mapSet="JIS" modifiers="f4"/>
-		<layout first="24" last="24" mapSet="ANSI" modifiers="f4"/>
-		<layout first="27" last="28" mapSet="ANSI" modifiers="f4"/>
+        <layout first="24" last="24" mapSet="ANSI" modifiers="f4"/>
+        <layout first="27" last="28" mapSet="ANSI" modifiers="f4"/>
         <layout first="30" last="30" mapSet="JIS" modifiers="f4"/>
         <layout first="31" last="31" mapSet="ANSI" modifiers="f4"/>
         <layout first="34" last="34" mapSet="ANSI" modifiers="f4"/>
-		<layout first="37" last="37" mapSet="ANSI" modifiers="f4"/>
-		<layout first="40" last="40" mapSet="ANSI" modifiers="f4"/>
+        <layout first="37" last="37" mapSet="ANSI" modifiers="f4"/>
+        <layout first="40" last="40" mapSet="ANSI" modifiers="f4"/>
         <layout first="194" last="194" mapSet="JIS" modifiers="f4"/>
-		<layout first="195" last="195" mapSet="ANSI" modifiers="f4"/>
+        <layout first="195" last="195" mapSet="ANSI" modifiers="f4"/>
         <layout first="197" last="197" mapSet="JIS" modifiers="f4"/>
-		<layout first="198" last="198" mapSet="ANSI" modifiers="f4"/>
+        <layout first="198" last="198" mapSet="ANSI" modifiers="f4"/>
         <layout first="200" last="201" mapSet="JIS" modifiers="f4"/>
-		<layout first="202" last="202" mapSet="ANSI" modifiers="f4"/>
+        <layout first="202" last="202" mapSet="ANSI" modifiers="f4"/>
         <layout first="204" last="204" mapSet="ANSI" modifiers="f4"/>
         <layout first="206" last="207" mapSet="JIS" modifiers="f4"/>
     </layouts>
@@ -224,7 +224,7 @@
             <key code="47" action="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="space"/>
-            <key code="50" action="~"/>
+            <key code="50" output="&#x003C;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -1727,7 +1727,7 @@
             <when state="dead: Ω" output="₎"/>
         </action>
         <action id="~">
-            <when state="none" output="&#x003C;"/>
+            <when state="none" output="~"/>
             <when state="dead: √" output="≈"/>
         </action>
         <action id="~ option">
