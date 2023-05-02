@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 359 on 2022-09-25 at 20:12 (WEST)-->
-<keyboard group="126" id="-19905" name="AltGr WEur v1.3" maxout="1">
+<keyboard group="126" id="-19905" name="AltGr WEur v1.5" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ISO" modifiers="f4"/>
         <layout first="1" last="6" mapSet="ANSI" modifiers="f4"/>
